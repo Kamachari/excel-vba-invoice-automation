@@ -58,17 +58,13 @@ Each record contains relevant information such as reference number, invoice date
 
 The following screenshots demonstrate the system's interface and automation results.
 
-### 1. Input Interface
-![Input Interface](Screenshots/Input Interface.png)
+| Input Interface | Automated Record Storage |
+|:---:|:---:|
+| ![Input Interface](Screenshots/Input%20Interface.png) | ![Automated Record Storage](Screenshots/Automated%20Record%20Storage.png) |
 
-### 2. Automated Record Storage
-![Automated Record Storage](Screenshots/Automated Record Storage.png)
-
-### 3. Duplicate Detection
-![Duplicate Detection](Screenshots/Duplicate Detection.png)
-
-### 4. Invoice Search Results
-![Invoice Search Results](Screenshots/Invoice Search Results.png)
+| Duplicate Detection | Invoice Search Results |
+|:---:|:---:|
+| ![Duplicate Detection](Screenshots/Duplicate%20Detection.png) | ![Invoice Search Results](Screenshots/Invoice%20Search%20Results.png) |
 
 Refer to the `Screenshots` folder for visual demonstrations.
 
